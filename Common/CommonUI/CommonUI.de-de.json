@@ -1,0 +1,186 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "VERSTANDEN"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "ABLEHNEN"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "OK"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "AKTUELLES ZIEL"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ COCKPIT WIRD VORBEREITET ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "ANSICHT WÄHLEN"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "AUẞEN"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "UMLAUFBAHN"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "MISSIONSBRETT"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "MENÜ"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "FORTSETZEN"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "AUSFÄLLE"
+  },
+  {
+    "Identifier": "InGameMenu_Audio",
+    "Text": "AUDIO"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "EINGABE"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "ZUSTAND SPEICHERN"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "MISSION CONTROL LIVE"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "KONSOLE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "MISSIONS-EDITOR"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "SITZUNG BEENDEN"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "GRAFIK"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "CHECKLISTE ERSTELLEN"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "KOMMUNIKATION"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "FUNKCHECK"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "EINSATZ"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "VORBESPRECHUNG"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "KARTE"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "CHECKLISTEN"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "ABSCHRIFT"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "NOTIZEN"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "AUDIO EINSTELLUNGEN"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "Master"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "Cockpit"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "AUßEN"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "Musik"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "Sonstige Soundeffekte"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "Astronaut\r\nKomm."
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "Mission Control Komm."
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "ZUSTAND SPEICHERN"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "I recently started to implement the save and load state routines. They are currently very basic and will mostly save the state vectors of the spacecraft and physical items, and the cockpit panel state.\r\n\r\nI will try to keep the save files backward compatible, but please expect breaking changes to save states due to the early state the current save/load system is in."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "Achtung: Es ist momentan nicht möglich zu Speichern. Während Triebwerke aktiv sind oder während anderer kritischer Missions-Abschnitte ist dies nicht möglich."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "SPEICHERN"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "SCHLIEẞEN"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "Spielstand-Name:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "Überschreiben?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "ALLE LÖSCHEN"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "LÖSCHEN"
+  }
+]
