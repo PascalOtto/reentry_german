@@ -444,8 +444,8 @@
     "Text": "Enhanced SSAO is a way to render shadows and dark areas in tight geometrical spots such as corners, holes, etc. If you need the extra cycles elsewhere, consider turning this off."
   },
   {
-    "Identifier": "GraphicsSettings_WindowGlareTitle",
-    "Text": "Render Main Window Glare"
+    "Identifier": "GraphicsSettings_FENSTERGlareTitle",
+    "Text": "Render Main FENSTER Glare"
   },
   {
     "Identifier": "GraphicsSettings_WindowGlareDesc",

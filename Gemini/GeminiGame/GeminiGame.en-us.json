@@ -5,11 +5,11 @@
   },
   {
     "Identifier": "CommReq_RadioCheck",
-    "Text": "RADIO CHECK"
+    "Text": "FUNK-CHECK"
   },
   {
     "Identifier": "CommReq_AltitudeCheck",
-    "Text": "ALTITUDE CHECK"
+    "Text": "HÖHEN-CHECK"
   },
   {
     "Identifier": "CommReq_RadiatorTemperature",
@@ -29,7 +29,7 @@
   },
   {
     "Identifier": "CommReq_RetroAtNextApogee",
-    "Text": "RETRO AT NEXT APOGEE"
+    "Text": "RETOR BEI NÄCHSTEM APOGEE"
   },
   {
     "Identifier": "CommReq_EVAButton",
@@ -49,15 +49,15 @@
   },
   {
     "Identifier": "CommReq_ToggleJukebox",
-    "Text": "TOGGLE JUKEBOX"
+    "Text": "JUKEBOX UMSCHALTEN"
   },
   {
     "Identifier": "CommReq_ManualAscentData",
-    "Text": "MANUAL ASCENT DATA"
+    "Text": "MANUELLER STEIGFLUG DATEN"
   },
   {
     "Identifier": "CommReq_AttitudeData",
-    "Text": "ATTITUDE DATA"
+    "Text": "HÖHENDATEN"
   },
   {
     "Identifier": "CommReq_ToggleDRing",
@@ -65,7 +65,7 @@
   },
   {
     "Identifier": "CommReq_SwitchToInternalPower",
-    "Text": "SWITCH TO INTERNAL POWER"
+    "Text": "WECHSEL ZU INTERNER STROMVERSORGUNG"
   },
   {
     "Identifier": "CommReq_AbortCapabilityTest",
@@ -77,7 +77,7 @@
   },
   {
     "Identifier": "ViewSelector_CommandersSeat",
-    "Text": "COMMANDERS SEAT"
+    "Text": "KOMMANDANT-SITZ"
   },
   {
     "Identifier": "ViewSelector_CommanderPanel",
@@ -313,7 +313,7 @@
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistName_ProjectName_String1",
-    "Text": "Complete checklist with ID {0}."
+    "Text": "Vervollständige Checkliste mit ID {0}."
   },
   {
     "Identifier": "MissionObjective_ExecuteChecklistComplete",

@@ -37,11 +37,11 @@
   },
   {
     "Identifier": "ViewSelector_CM_LeftWindow",
-    "Text": "LH WINDOW"
+    "Text": "LH FENSTER"
   },
   {
     "Identifier": "ViewSelector_CM_RightWindow",
-    "Text": "RH WINDOW"
+    "Text": "RH FENSTER"
   },
   {
     "Identifier": "ViewSelector_CM_Computer",
@@ -65,11 +65,11 @@
   },
   {
     "Identifier": "ViewSelector_LM_LeftWindow",
-    "Text": "LH WINDOW"
+    "Text": "LH FENSTER"
   },
   {
     "Identifier": "ViewSelector_LM_RightWindow",
-    "Text": "RH WINDOW"
+    "Text": "RH FENSTER"
   },
   {
     "Identifier": "ViewSelector_LM_Computer",
@@ -81,7 +81,7 @@
   },
   {
     "Identifier": "ViewSelector_LM_OVHD",
-    "Text": "OVHD WINDOW"
+    "Text": "OVHD FENSTER"
   },
   {
     "Identifier": "CommTools_ToggleCOAS",
@@ -101,11 +101,11 @@
   },
   {
     "Identifier": "CommTools_ToggleJukebox",
-    "Text": "TOGGLE JUKEBOX"
+    "Text": "JUKEBOX UMSCHALTEN"
   },
   {
     "Identifier": "CommTools_ReqSwitchInternalPwr",
-    "Text": "SWITCH TO INTERNAL POWER"
+    "Text": "WECHSEL ZU INTERNER STROMVERSORGUNG"
   },
   {
     "Identifier": "CommTools_ToggleCountdown",
@@ -993,7 +993,7 @@
   },
   {
     "Identifier": "RadioCommMenu_RadioCheck",
-    "Text": "RADIO CHECK"
+    "Text": "FUNK-CHECK"
   },
   {
     "Identifier": "RadioCommMenu_TLI",
